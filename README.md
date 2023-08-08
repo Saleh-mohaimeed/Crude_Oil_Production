@@ -17,4 +17,4 @@ This project is a web application that analyzes and visualizes crude oil product
 1. Clone the repository:
 
    ```bash
-   git clone <[repository_url](https://github.com/Saleh-mohaimeed/Crude_Oil_Production.git)https://github.com/Saleh-mohaimeed/Crude_Oil_Production.git>
+   git clone https://github.com/Saleh-mohaimeed/Crude_Oil_Production.git)https://github.com/Saleh-mohaimeed/Crude_Oil_Production.git
