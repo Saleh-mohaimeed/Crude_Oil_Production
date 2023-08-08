@@ -19,27 +19,20 @@ This project is a web application that analyzes and visualizes crude oil product
    ```bash
    git clone https://github.com/Saleh-mohaimeed/Crude_Oil_Production.git)https://github.com/Saleh-mohaimeed/Crude_Oil_Production.git
 
-Create a virtual environment (optional but recommended):
+## Install the required dependencies
 
-bash
-Copy
-python3 -m venv venv
-source venv/bin/activate
-Install the required dependencies:
-
-bash
-Copy
-pip install -r requirements.txt
+```bash
+   pip install -r requirements.txt
+```
 This command will install all the necessary dependencies listed in the requirements.txt file.
 
-Usage
-Run the Flask server:
+## Usage
+1. Run the Flask server:
+```
+   python app.py
+```
+The server will start running locally on http://127.0.0.1:8050.
 
-bash
-Copy
-python app.py
-The server will start running locally on http://localhost:5000.
+2. Open a web browser and navigate to http://127.0.0.1:8050/ to access the dashboard.
 
-Open a web browser and navigate to http://localhost:5000 to access the dashboard.
-
-Explore the dashboard by selecting options from the dropdown menus and interacting with the charts and tables.
+3. Explore the dashboard by selecting options from the dropdown menus and interacting with the charts and tables.
