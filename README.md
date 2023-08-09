@@ -1,6 +1,6 @@
 # Crude Oil Production Analysis Dashboard
 
-The objective of this project is to employ Selenium and Pandas libraries to extract data from the given URL, specifically focusing on Crude Oil production data categorized by Year, Month, and Country. Once the data extraction is complete, the next step involves building an interactive dashboard using the Dash and Plotly Python packages.
+The objective of this project is to employ Selenium and Pandas libraries to extract data from the given URL, Crude Oil production data categorized by Year, Month, and Country. Once the data extraction is complete, the next step involves building an interactive dashboard using the Dash and Plotly Python packages.
 
 ## Requirements
 
