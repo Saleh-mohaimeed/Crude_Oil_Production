@@ -1,6 +1,6 @@
 # Crude Oil Production Analysis Dashboard
 
-This project is a web application that analyzes and visualizes crude oil production data using Dash and Flask. It provides interactive charts and tables to explore the production data by country, year, and month.
+This project is a web application that analyzes and visualizes crude oil production data using Dash and Plotly. It provides interactive charts and tables to explore the production data by country, year, and month.
 
 ## Requirements
 
