@@ -29,7 +29,7 @@ This command will install all the necessary dependencies listed in the requireme
 ## Usage
 1. Run the Flask server:
 ```
-   python app.py
+   python Visualize_Data.py
 ```
 The server will start running locally on http://127.0.0.1:8050.
 
