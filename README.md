@@ -1,6 +1,6 @@
 # Crude Oil Production Analysis Dashboard
 
-This project is a web application that analyzes and visualizes crude oil production data using Dash and Plotly. It provides interactive charts and tables to explore the production data by country, year, and month.
+The objective of this project is to employ Selenium and Pandas libraries to extract data from a given URL, specifically focusing on Crude Oil production data categorized by Year, Month, and Country. Once the data extraction is complete, the next step involves building an interactive dashboard using the Dash and Plotly Python packages.
 
 ## Requirements
 
